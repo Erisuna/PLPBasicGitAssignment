@@ -17,7 +17,3 @@
 
 4. **Sharing Repository:**
    - Submitted the GitHub repository link to the instructor for review.
-
-## Additional Notes:
-- Remember to replace `your-username` with your actual GitHub username.
-- If you encounter any issues, consult the GitHub documentation or seek assistance from peers or the instructor.
